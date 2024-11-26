@@ -1,4 +1,4 @@
-# UK Universities Reviews
+# UniReview Scraper 
 
 ## Overview
 This project involves collecting and analyzing reviews of universities across the United Kingdom. Using **BeautifulSoup**, data was scraped from two websites to create a comprehensive dataset of university reviews. The final cleaned dataset, `final.csv`, is the result of combining and preprocessing the collected data.
