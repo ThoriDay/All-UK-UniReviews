@@ -5,6 +5,8 @@ This project involves collecting and analyzing reviews of universities across th
 
 ---
 
+Dataset avaialable at https://www.kaggle.com/datasets/rohitpawar1/all-uk-unireviews/data
+
 ## Features
 - **Web Scraping**: Extract reviews data using Python and BeautifulSoup.
 - **Data Cleaning**: Process and clean raw data into a structured format.
